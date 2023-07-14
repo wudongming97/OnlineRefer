@@ -1,2 +1,1 @@
-# OnlineRefer
-[ICCV 2023] OnlineRefer
+# OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
