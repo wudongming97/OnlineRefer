@@ -10,7 +10,7 @@ OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation
 
 <p align="center"><img src="docs/onlinerefer.jpg" width="800"/></p>
 
-> **OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**
+> **[OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)**
 >
 > Dongming Wu, Tiancai Wang, Yuang Zhang, Xiangyu Zhang, Jianbing Shen 
 
