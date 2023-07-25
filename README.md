@@ -89,11 +89,18 @@ As described in the paper, we report the results using the model trained on Ref-
 - [MOTR](https://github.com/megvii-research/MOTR)
 
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # ()
-[//]: # (```)
+If you find OnlineRefer useful in your research, please consider citing:
 
-[//]: # ()
-[//]: # (```)
+
+```
+@article{wu2023onlinerefer,
+  title={OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation},
+  author={Wu, Dongming and Wang, Tiancai and Zhang, Yuang and Zhang, Xiangyu and Shen, Jianbing},
+  journal={arXiv preprint arXiv:2307.09356},
+  year={2023}
+}
+
+```
 
