@@ -101,6 +101,5 @@ If you find OnlineRefer useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2307.09356},
   year={2023}
 }
-
 ```
 
