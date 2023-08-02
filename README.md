@@ -48,20 +48,20 @@ Note: The models with ResNet50 are trained using 8 NVIDIA 2080Ti GPU, and the mo
 
 Please upload the zip file to the [competition server](https://competitions.codalab.org/competitions/29139#participate-submit_results).
 
-| Backbone|  J&F  |   J   |  F   |                                                Pretrain                                                |                                                        Model                                                        | Submission |
-| :----: |:-----:|:-----:|:----:|:------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:----------:|
-| ResNet-50 | 57.3  | 55.6  | 58.9 |    [weight](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/r50_pretrained.pth)     |          [model](https://github.com/wudongming97/OnlineRefer/releases/edit/v1.0/ytvos-r50-checkpoint.pth)           |     -      |
-| Swin-L | 63.5 | 61.6 | 65.5 | [weight](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/swin_large_pretrained.pth) |             [model](https://drive.google.com/file/d/1wTEf5Z-EmmtPJkWaUPFDpcRg8vuCsV2X/view?usp=sharing)             |     -      | 
-
+| Backbone|  J&F  |   J   |  F   |                                                Pretrain                                                |                                                Model                                                 |                                 Submission                                  |
+| :----: |:-----:|:-----:|:----:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| ResNet-50 | 57.3  | 55.6  | 58.9 |    [weight](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/r50_pretrained.pth)     | [model](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/ytvos-r50-checkpoint.pth) | [link](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/ResNet50_Submission.zip) |
+| Swin-L | 63.5 | 61.6 | 65.5 | [weight](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/swin_large_pretrained.pth) |     [model](https://drive.google.com/file/d/1wTEf5Z-EmmtPJkWaUPFDpcRg8vuCsV2X/view?usp=sharing)      |  [link](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/SwinL_Submission.zip) | 
+| Video Swin-B | 62.9 | 61.0 | 64.7 |                                                -                                                 |                                                  -                                                   |[link](https://github.com/wudongming97/OnlineRefer/releases/download/v1.0/VideoSwinB_Submission.zip) | 
 
 ### Ref-DAVIS17
 
 As described in the paper, we report the results using the model trained on Ref-Youtube-VOS without finetune.
 
-| Backbone| J&F  |  J   |  F   |                                              Model                                               | 
-| :----: |:----:|:----:|:----:|:------------------------------------------------------------------------------------------------:|
-| ResNet-50 | 59.3 | 55.7 | 62.9 | [model](https://github.com/wudongming97/OnlineRefer/releases/edit/v1.0/ytvos-r50-checkpoint.pth) |
-| Swin-L | 64.8 | 61.6 | 67.7 |   [model](https://drive.google.com/file/d/1wTEf5Z-EmmtPJkWaUPFDpcRg8vuCsV2X/view?usp=sharing)    |
+|   Backbone   | J&F  |  J   |  F   |                                              Model                                               | 
+|:------------:|:----:|:----:|:----:|:------------------------------------------------------------------------------------------------:|
+|  ResNet-50   | 59.3 | 55.7 | 62.9 | [model](https://github.com/wudongming97/OnlineRefer/releases/edit/v1.0/ytvos-r50-checkpoint.pth) |
+|    Swin-L    | 64.8 | 61.6 | 67.7 |   [model](https://drive.google.com/file/d/1wTEf5Z-EmmtPJkWaUPFDpcRg8vuCsV2X/view?usp=sharing)    |
 
 
 [//]: # (## Visualizations)
