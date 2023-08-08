@@ -40,6 +40,11 @@ If you want to train and evaluate our online model on Ref-Youtube-VOS using back
 sh ./scripts/online_ytvos_swinl.sh
 ```
 
+If you want to use your own video sequence, please run the following command:
+```
+python inference_long_videos.py
+```
+
 Note: The models with ResNet50 are trained using 8 NVIDIA 2080Ti GPU, and the models with Swin-L are trained using 8 NVIDIA Tesla V100 GPU.
 
 ## Model Zoo
