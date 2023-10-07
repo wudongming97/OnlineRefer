@@ -86,25 +86,25 @@ As described in the paper, we report the results using the model trained on Ref-
 [//]: # (- Testing on long videos &#40;selected from Youtube-VIS 2021&#41;)
 
 
-## Acknowledgement
-
-- [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR)
-- [ReferFormer](https://github.com/wjn922/ReferFormer)
-- [MTTR](https://github.com/mttr2021/MTTR)
-- [MOTR](https://github.com/megvii-research/MOTR)
-
-
 ## Citation
 
 If you find OnlineRefer useful in your research, please consider citing:
 
 
 ```
-@article{wu2023onlinerefer,
+@inproceedings{wu2023onlinerefer,
   title={OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation},
   author={Wu, Dongming and Wang, Tiancai and Zhang, Yuang and Zhang, Xiangyu and Shen, Jianbing},
-  journal={arXiv preprint arXiv:2307.09356},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2761--2770},
   year={2023}
 }
 ```
+
+## Acknowledgement
+
+- [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR)
+- [ReferFormer](https://github.com/wjn922/ReferFormer)
+- [MTTR](https://github.com/mttr2021/MTTR)
+- [MOTR](https://github.com/megvii-research/MOTR)
 
